@@ -1,0 +1,4 @@
+INSERT INTO "products" ("name", "price", "category")
+    VALUES ('vacuumcleaner', '300', 'Husgeråd')
+
+  "SELECT name FROM sqlite_master where type='table'"
